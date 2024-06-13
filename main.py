@@ -20,10 +20,10 @@ def main():
     """
 
     # call each function defined in practice_output
-    practice_output.print_with_line_break()
-    practice_output.print_without_line_break()
-    practice_output.print_with_separator_dash_and_with_line_break()
-    practice_output.print_with_separator_dash_and_without_line_break()
+    # practice_output.print_with_line_break()
+    # practice_output.print_without_line_break()
+    # practice_output.print_with_separator_dash_and_with_line_break()
+    # practice_output.print_with_separator_dash_and_without_line_break()
 
     # call each function defined in practice_input
     # practice_input.get_favorite_vegetable()
