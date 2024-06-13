@@ -47,6 +47,14 @@ def get_name_and_zodiac_sign():
     """
     # write your code here.
 
+    a = input("What is yor name?")
+
+    b = input("What is your Zodiac sign?")
+
+    ans = f"Interesting! My name is also {a}, and I'm also a {b}!"
+
+    print(ans)
+
 
 def get_name_and_age():
     """
@@ -56,3 +64,11 @@ def get_name_and_age():
     where X and Y are replaced by the user's name and age, respectively.
     """
     # write your code here.
+
+    a = input("What is yor name?")
+
+    b = input("What is your age?")
+
+    ans = f"Interesting! My name is also {a}, and I'm also {b} years old!"
+
+    print(ans)
