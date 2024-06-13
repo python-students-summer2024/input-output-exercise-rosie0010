@@ -27,9 +27,9 @@ def main():
 
     # call each function defined in practice_input
     practice_input.get_favorite_vegetable()
-    practice_input.get_favorite_number()
-    practice_input.get_name_and_zodiac_sign()
-    practice_input.get_name_and_age()
+    # practice_input.get_favorite_number()
+#     practice_input.get_name_and_zodiac_sign()
+#     practice_input.get_name_and_age()
 
 
 # run the code defined within the main function
